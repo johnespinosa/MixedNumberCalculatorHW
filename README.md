@@ -1,4 +1,4 @@
-First Software Project to build a Mixed Number calculator. Write your code in src/MixedNumberCalculator.java The main method will be where you stitch together all the functions needed to make the Mixed Number Calculator function. Test your functions using src/TestMixedNunberCalculator.java
+First Software Project to build a Mixed Number calculator. Write your code in src/MixedNumberCalculator.java The main method will be where you stitch together all the functions needed to make the Mixed Number Calculator run. Test your functions using src/TestMixedNunberCalculator.java
 
 Requirements:
 You can assume any input provided by the user will be in a valid format, only valid operators, all mixed numbers would be good. There will be no excess spaces in the beginning or the end of the user’s input.
