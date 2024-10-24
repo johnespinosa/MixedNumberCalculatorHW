@@ -14,6 +14,7 @@ Else if numerator of fraction is 0 leave it off of the result: 1 0/2 -> 1
 
 
 Advice
+
 Try to convert your mixed numbers entered by the user into improper fractions as that would allow for easy addition, subtraction, multiplication, and division
 
 Write a helper function to reduce your mixed numbers into simplest form
